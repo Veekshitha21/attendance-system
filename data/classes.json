@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "code": "CS301",
+    "name": "Database Management",
+    "semester": 5,
+    "instructor": "Dr. John Smith"
+  },
+  {
+    "id": "2",
+    "code": "CS302",
+    "name": "Web Development",
+    "semester": 5,
+    "instructor": "Prof. Sarah Johnson"
+  },
+  {
+    "id": "3",
+    "code": "CS303",
+    "name": "Data Structures",
+    "semester": 3,
+    "instructor": "Dr. Michael Brown"
+  }
+]

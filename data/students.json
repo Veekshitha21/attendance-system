@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "rollNumber": "CS-2023-001",
+    "firstName": "Aarav",
+    "lastName": "Patel",
+    "email": "aarav@college.edu",
+    "phone": "9876543210",
+    "status": "Active"
+  },
+  {
+    "id": "2",
+    "rollNumber": "CS-2023-002",
+    "firstName": "Vivaan",
+    "lastName": "Kumar",
+    "email": "vivaan@college.edu",
+    "phone": "9876543211",
+    "status": "Active"
+  },
+  {
+    "id": "3",
+    "rollNumber": "CS-2023-003",
+    "firstName": "Ananya",
+    "lastName": "Singh",
+    "email": "ananya@college.edu",
+    "phone": "9876543212",
+    "status": "Active"
+  },
+  {
+    "id": "4",
+    "rollNumber": "CS-2023-004",
+    "firstName": "Diya",
+    "lastName": "Sharma",
+    "email": "diya@college.edu",
+    "phone": "9876543213",
+    "status": "Active"
+  },
+  {
+    "id": "5",
+    "rollNumber": "CS-2023-005",
+    "firstName": "Rohan",
+    "lastName": "Mishra",
+    "email": "rohan@college.edu",
+    "phone": "9876543214",
+    "status": "Active"
+  }
+]

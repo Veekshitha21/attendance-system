@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b65bf309-60cc-4468-b6b3-a082b628c4c2",
+    "studentId": "1",
+    "classId": "1",
+    "date": "2026-01-01",
+    "status": "Absent",
+    "markedAt": "2026-01-01T05:07:26.543Z"
+  },
+  {
+    "id": "64781fe1-b3f1-40d9-8c28-7b629ad6bebf",
+    "studentId": "2",
+    "classId": "1",
+    "date": "2026-01-01",
+    "status": "Absent",
+    "markedAt": "2026-01-01T05:07:26.543Z"
+  },
+  {
+    "id": "e758c8c2-bf92-43d1-9f70-d8827b67fa9c",
+    "studentId": "3",
+    "classId": "1",
+    "date": "2026-01-01",
+    "status": "Present",
+    "markedAt": "2026-01-01T05:07:26.543Z"
+  },
+  {
+    "id": "fcafdd23-c8e6-4fad-99ab-427e87d5a2a4",
+    "studentId": "4",
+    "classId": "1",
+    "date": "2026-01-01",
+    "status": "Present",
+    "markedAt": "2026-01-01T05:07:26.543Z"
+  },
+  {
+    "id": "2449b69d-3555-495e-9f69-4f3f550bdf4c",
+    "studentId": "5",
+    "classId": "1",
+    "date": "2026-01-01",
+    "status": "Present",
+    "markedAt": "2026-01-01T05:07:26.543Z"
+  }
+]
